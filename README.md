@@ -1,5 +1,7 @@
 ## Hi👋, I am RESHMA TV
 
+Microsoft Certified Power BI Data Analyst 
+
 - 🔭 I’m currently working on myself, learning and growing...
 - 🌱 I’m currently learning Data Analytics using Power BI, SQL, Python and Excel
 - 🤔 I’m looking for new opportunities to work and grow
